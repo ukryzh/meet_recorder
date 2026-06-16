@@ -16,7 +16,7 @@ Records screen + audio, and automatically transcribes via Whisper.
 
 Download Python 3.9 or newer: https://www.python.org/downloads/
 
-⚠️ During install, make sure to check **"Add Python to PATH"**
+During install, make sure to check **"Add Python to PATH"**
 
 Verify - open Command Prompt (Win+R → `cmd`) and type:
 ```
@@ -87,8 +87,8 @@ Double-click **run.bat**
 1. Choose a folder to save recordings
 2. Select your microphone from the list
 3. Open Google Meet
-4. Click **⏺ START RECORDING**
-5. After the meeting - **⏹ STOP RECORDING**
+4. Click **START RECORDING**
+5. After the meeting - **STOP RECORDING**
 6. Wait - the transcript will be created automatically and the folder will open
 
 **Transcribing an existing file:**
