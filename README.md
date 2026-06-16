@@ -5,7 +5,7 @@ Desktop app to record and transcribe online meetings locally
 
 ## What it does
 
-App for recording meetings in Google Meet and other video conferencing tools.
+App for recording screens and meetings.
 Records screen + audio, and automatically transcribes via Whisper.
 
 **Output saved per meeting:**
